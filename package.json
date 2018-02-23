@@ -1,11 +1,11 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.0",
-    "express": "^4.13.4"
+    "express": "^4.16.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -14,5 +14,14 @@
     "watch": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rami0141/Star-Wars.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rami0141/Star-Wars/issues"
+  },
+  "homepage": "https://github.com/rami0141/Star-Wars#readme"
 }
